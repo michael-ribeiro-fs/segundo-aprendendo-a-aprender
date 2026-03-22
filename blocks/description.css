@@ -1,0 +1,46 @@
+.content {
+  width: 100%;
+}
+
+.description {
+  width: 80%;
+  margin: 100px auto 0;
+  min-height: 100vh;
+  min-width: 784px;
+}
+
+.two__columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.two__columns--brief {
+  width: 175px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+  margin-top: 0;
+}
+
+.two__columns--main-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  width: 784px;
+}
+
+.paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0 0 30px;
+}
+
+span {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+}
