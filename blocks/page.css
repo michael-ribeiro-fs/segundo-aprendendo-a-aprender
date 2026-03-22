@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  font-family: "Inter", Arial, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.page a:hover {
+  opacity: 0.7;
+  transition: opacity 0.3s;
+}
