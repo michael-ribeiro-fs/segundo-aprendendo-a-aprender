@@ -1,0 +1,54 @@
+.techniques {
+  padding: 100px 0;
+  max-width: 920px;
+  margin: auto;
+}
+
+.section_title {
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: 700;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+}
+
+.section_subtitle {
+  margin: 20px auto 0 auto;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  width: 60%;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+
+.cards_item {
+  width: 240px;
+}
+
+.cards_image {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  margin: 60px 40px 43px 40px;
+}
+
+.cards_title {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cards_description {
+  line-height: 23px;
+  font-size: 18px;
+  text-align: center;
+}
