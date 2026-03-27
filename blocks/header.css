@@ -36,6 +36,7 @@
 .header__footer {
   width: 388px;
   margin: 0 auto 30px 64px;
+  z-index: 1;
 }
 
 .header__text {
